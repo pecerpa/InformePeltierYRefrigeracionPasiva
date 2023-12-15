@@ -58,9 +58,11 @@ En pocas palabras se utilizaría un disipador de calor un ventilador pequeño en
 Esta es un pequeño prototipo de esquma de como se podria llegar a implementar.
 
 
-##Se podría utilizar este en aplicaciones prácticas en la vida cotidiana?
+## Se podría utilizar este en aplicaciones prácticas en la vida cotidiana?
 
 Una de las principales ideas que Al momento de investigar sobre esto es si se puede implementar en galpones, a primera vista luce prometedor ya que es un sistema de enfriamiento innovador Y qué se puede aprovechar hay varias formas, ya sea como un método de control de temperatura dentro de estos o hasta se podría andar en la conservación de ciertos productos que se utilizan en este ámbito.
+
+![image](https://github.com/pecerpa/InformePeltierYRefrigeracionPasiva/assets/99555143/1595a24b-e6be-49eb-a211-fb3c3af34ac5)
 
 ## Conclusiones
 Tanto el enfriamiento por paneles Peltier como la refrigeración pasiva con vasijas de arcilla ofrecen soluciones valiosas en diferentes contextos. quizas estos puedan ser utilizados como una alternativa a la refrigeracion de espacios, en esta pequeña investigacion se busco conocer sobre estos metodos de enfriamiento y si pueden llegar a ser aplicados en algunos espacios, este es solo el princio de mi insvestigacion y espero poder desarrolar un protoripo en iteraciones futuras.
