@@ -1,7 +1,7 @@
-# Informe sobre Enfriamiento por Paneles Peltier y Refrigeración Pasiva con Vasijas de Arcilla
+# Enfriamiento por Paneles Peltier y Refrigeración Pasiva con Vasijas de Arcilla
 
 ## Introducción
-El enfriamiento y la refrigeración son aspectos cruciales en diversas aplicaciones, desde dispositivos electrónicos hasta sistemas de construcción. En este informe, se abordarán dos métodos particulares: el enfriamiento por paneles Peltier y la refrigeración pasiva mediante el uso de vasijas de arcilla.
+El enfriamiento y la refrigeración son aspectos cruciales en diversas aplicaciones, desde dispositivos electrónicos hasta sistemas de construcción., se abordarán dos métodos particulares: el enfriamiento por paneles Peltier y la refrigeración pasiva mediante el uso de vasijas de arcilla y como estos se podrian implementar en conjunto, aparte si este puede ser util en un galpon.
 
 ## Enfriamiento por Paneles Peltier
 
@@ -52,7 +52,15 @@ La refrigeración pasiva con vasijas de arcilla se basa en principios naturales,
 
 Se basa en usar la refrigeración pasiva de la vasija de arcilla para disipar el calor emitido por la celda peltier por medio de la evaporación de agua, la vasija es capaz de disminuir la temperatura significativamente, lo cual podemos utilizar a nuestro favor ya que para el funcionamiento del módulo peltier es necesario disipar una generación constante de calor.
 
-En pocas palabras se utilizaría un disipador de calor un ventilador pequeño cortar el aire frío partido por el módulo peltier al ambiente
+En pocas palabras se utilizaría un disipador de calor un ventilador pequeño enviar el aire frío emitido por el módulo peltier al ambiente.
+
+![image](https://github.com/pecerpa/InformePeltierYRefrigeracionPasiva/assets/99555143/a29f6d9a-c9e3-486e-b060-26b2be09e4c0)
+Esta es un pequeño prototipo de esquma de como se podria llegar a implementar.
+
+
+##Se podría utilizar este en aplicaciones prácticas en la vida cotidiana?
+
+Una de las principales ideas que Al momento de investigar sobre esto es si se puede implementar en galpones, a primera vista luce prometedor ya que es un sistema de enfriamiento innovador Y qué se puede aprovechar hay varias formas, ya sea como un método de control de temperatura dentro de estos o hasta se podría andar en la conservación de ciertos productos que se utilizan en este ámbito.
 
 ## Conclusiones
-Tanto el enfriamiento por paneles Peltier como la refrigeración pasiva con vasijas de arcilla ofrecen soluciones valiosas en diferentes contextos. La elección entre ellos dependerá de factores como la aplicación específica, la disponibilidad de recursos y la sostenibilidad ambiental. En un mundo donde la eficiencia energética y la sostenibilidad son prioritarias, estas tecnologías representan enfoques innovadores para abordar los desafíos de la refrigeración.
+Tanto el enfriamiento por paneles Peltier como la refrigeración pasiva con vasijas de arcilla ofrecen soluciones valiosas en diferentes contextos. quizas estos puedan ser utilizados como una alternativa a la refrigeracion de espacios, en esta pequeña investigacion se busco conocer sobre estos metodos de enfriamiento y si pueden llegar a ser aplicados en algunos espacios, este es solo el princio de mi insvestigacion y espero poder desarrolar un protoripo en iteraciones futuras.
